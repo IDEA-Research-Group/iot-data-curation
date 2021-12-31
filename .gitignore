@@ -26,8 +26,6 @@ target/
 #src/main/scala/es/us/idea/adt/benchmark/*
 input/*
 input
-models/*
-models
 src/main/scala/es/us/idea/dcdq/junk/*
 src/main/scala/es/us/idea/dcdq/junk
 src/main/scala/es/us/idea/dcdq/tests/*
